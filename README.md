@@ -1,11 +1,6 @@
 
 # Real-Time Analytics Platform with Kafka, Flink, and BigQuery
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.9-blueviolet)
-![Apache Kafka](https://img.shields.io/badge/Apache-Kafka-black)
-![Apache Flink](https://img.shields.io/badge/Apache-Flink-orange)
-![Google BigQuery](https://img.shields.io/badge/Google-BigQuery-4285F4)
 
 This project is a complete, end-to-end demonstration of a modern streaming data pipeline. It captures live Wikipedia edits, processes them in real-time using Apache Flink, and stores the aggregated results in Google BigQuery for analysis and visualization.
 
