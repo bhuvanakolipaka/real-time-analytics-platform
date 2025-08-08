@@ -78,6 +78,3 @@ These instructions will get you a copy of the project up and running on your loc
 -   [ ] Add more complex data enrichment, such as joining user data.
 -   [ ] Deploy the Flink cluster in a standalone configuration for better scalability.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
